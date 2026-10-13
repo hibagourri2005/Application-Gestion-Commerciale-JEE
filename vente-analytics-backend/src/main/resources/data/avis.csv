@@ -1,0 +1,161 @@
+id,note,commentaire,date_avis,produit_id,acheteur_id
+1,3,Acceptable,2025-11-28,P001,19
+2,5,Excellent produit,2025-07-26,P001,28
+3,3,Acceptable,2025-11-24,P001,33
+4,3,Acceptable,2025-02-16,P002,35
+5,4,Bonne qualité,2025-02-08,P002,35
+6,5,Excellent produit,2025-01-12,P002,28
+7,2,Ne répond pas aux attentes,2025-01-22,P003,29
+8,2,Qualité faible,2025-08-07,P003,33
+9,5,Qualité exceptionnelle,2025-03-18,P004,35
+10,2,Ne répond pas aux attentes,2025-12-27,P004,20
+11,4,Très bon produit,2025-06-13,P005,16
+12,2,Ne répond pas aux attentes,2025-01-10,P005,17
+13,3,Produit correct,2025-08-28,P005,35
+14,5,Excellent produit,2025-09-24,P006,29
+15,1,Produit inutilisable,2025-01-29,P006,20
+16,3,Produit correct,2025-12-06,P006,26
+17,1,Produit inutilisable,2025-06-25,P006,17
+18,3,Acceptable,2025-12-28,P006,20
+19,1,Produit inutilisable,2025-07-04,P007,16
+20,5,Excellent produit,2025-07-03,P008,17
+21,2,Ne répond pas aux attentes,2025-05-28,P008,17
+22,4,Bonne qualité,2025-03-02,P008,33
+23,3,Acceptable,2025-07-23,P008,27
+24,3,Produit correct,2025-06-12,P009,23
+25,3,Produit correct,2025-12-10,P009,29
+26,1,Produit inutilisable,2025-04-27,P009,27
+27,1,Produit inutilisable,2025-10-18,P009,25
+28,1,Très mauvaise qualité,2025-09-23,P009,24
+29,5,Excellent produit,2025-07-14,P010,27
+30,1,Très mauvaise qualité,2025-07-10,P010,26
+31,4,Très bon produit,2025-12-02,P011,33
+32,2,Qualité faible,2025-07-30,P011,22
+33,2,Qualité faible,2025-04-01,P011,35
+34,4,Bonne qualité,2025-06-18,P011,35
+35,3,Produit correct,2025-08-29,P011,29
+36,4,Très bon produit,2025-12-26,P012,17
+37,3,Produit correct,2025-10-01,P012,23
+38,3,Produit correct,2025-08-29,P012,35
+39,1,Produit inutilisable,2025-09-23,P013,16
+40,2,Ne répond pas aux attentes,2025-08-03,P013,29
+41,3,Produit correct,2025-01-03,P013,27
+42,4,Très bon produit,2025-12-05,P013,20
+43,1,Très mauvaise qualité,2025-01-05,P013,26
+44,1,Très mauvaise qualité,2025-10-02,P014,25
+45,2,Qualité faible,2025-10-15,P014,26
+46,5,Qualité exceptionnelle,2025-09-07,P014,22
+47,3,Acceptable,2025-08-20,P015,23
+48,5,Excellent produit,2025-12-15,P015,22
+49,3,Produit correct,2025-01-21,P016,19
+50,3,Acceptable,2025-11-11,P016,21
+51,4,Très bon produit,2025-11-05,P016,16
+52,1,Très mauvaise qualité,2025-08-09,P016,31
+53,1,Très mauvaise qualité,2025-11-27,P016,31
+54,3,Produit correct,2025-08-15,P017,19
+55,3,Acceptable,2025-11-11,P017,33
+56,2,Ne répond pas aux attentes,2025-06-01,P017,35
+57,5,Qualité exceptionnelle,2025-08-03,P017,19
+58,3,Acceptable,2025-01-25,P018,20
+59,1,Très mauvaise qualité,2025-03-13,P019,26
+60,5,Excellent produit,2025-07-29,P019,24
+61,1,Très mauvaise qualité,2025-07-19,P019,32
+62,5,Excellent produit,2025-10-07,P019,24
+63,5,Qualité exceptionnelle,2025-06-28,P020,29
+64,4,Très bon produit,2025-02-22,P020,27
+65,5,Excellent produit,2025-11-11,P021,25
+66,2,Ne répond pas aux attentes,2025-07-18,P021,28
+67,4,Bonne qualité,2025-10-23,P022,28
+68,2,Ne répond pas aux attentes,2025-09-18,P022,31
+69,5,Excellent produit,2025-02-19,P022,25
+70,5,Excellent produit,2025-04-22,P023,31
+71,2,Qualité faible,2025-12-11,P024,34
+72,3,Acceptable,2025-12-07,P024,21
+73,5,Qualité exceptionnelle,2025-10-24,P024,31
+74,1,Produit inutilisable,2025-06-02,P024,32
+75,1,Très mauvaise qualité,2025-05-10,P025,32
+76,2,Ne répond pas aux attentes,2025-07-23,P026,23
+77,2,Ne répond pas aux attentes,2025-10-14,P026,35
+78,3,Produit correct,2025-08-01,P026,18
+79,4,Très bon produit,2025-02-27,P026,28
+80,3,Produit correct,2025-12-03,P027,31
+81,4,Très bon produit,2025-10-28,P027,25
+82,2,Qualité faible,2025-04-09,P028,18
+83,2,Qualité faible,2025-02-26,P028,20
+84,4,Bonne qualité,2025-01-03,P028,34
+85,3,Acceptable,2025-05-20,P028,30
+86,3,Produit correct,2025-02-06,P029,30
+87,1,Produit inutilisable,2025-08-29,P029,23
+88,2,Ne répond pas aux attentes,2025-05-27,P029,17
+89,2,Qualité faible,2025-12-09,P030,27
+90,3,Produit correct,2025-12-07,P030,16
+91,3,Acceptable,2025-03-27,P030,34
+92,1,Produit inutilisable,2025-09-20,P030,31
+93,5,Qualité exceptionnelle,2025-03-04,P031,22
+94,5,Excellent produit,2025-12-16,P031,32
+95,1,Produit inutilisable,2025-11-09,P031,31
+96,2,Ne répond pas aux attentes,2025-09-28,P032,31
+97,1,Très mauvaise qualité,2025-08-03,P032,21
+98,1,Produit inutilisable,2025-06-04,P032,20
+99,4,Bonne qualité,2025-06-24,P033,32
+100,5,Excellent produit,2025-12-24,P033,25
+101,2,Qualité faible,2025-02-22,P033,32
+102,3,Acceptable,2025-07-29,P033,31
+103,3,Acceptable,2025-02-19,P033,32
+104,3,Acceptable,2025-01-08,P034,34
+105,3,Produit correct,2025-07-24,P034,33
+106,3,Produit correct,2025-06-15,P034,17
+107,5,Qualité exceptionnelle,2025-02-03,P034,16
+108,1,Produit inutilisable,2025-12-05,P034,18
+109,2,Ne répond pas aux attentes,2025-02-22,P035,20
+110,3,Acceptable,2025-01-02,P035,20
+111,1,Très mauvaise qualité,2025-08-16,P035,27
+112,2,Ne répond pas aux attentes,2025-07-12,P035,32
+113,4,Très bon produit,2025-05-18,P036,19
+114,1,Produit inutilisable,2025-12-10,P036,28
+115,2,Ne répond pas aux attentes,2025-06-19,P036,30
+116,1,Produit inutilisable,2025-01-04,P036,16
+117,1,Produit inutilisable,2025-01-12,P037,25
+118,2,Qualité faible,2025-07-04,P037,17
+119,3,Produit correct,2025-11-05,P038,23
+120,4,Bonne qualité,2025-11-15,P038,29
+121,2,Ne répond pas aux attentes,2025-11-10,P038,20
+122,2,Ne répond pas aux attentes,2025-12-20,P038,34
+123,1,Produit inutilisable,2025-02-06,P038,33
+124,2,Qualité faible,2025-07-11,P039,20
+125,5,Qualité exceptionnelle,2025-10-07,P039,20
+126,5,Qualité exceptionnelle,2025-09-28,P039,34
+127,4,Très bon produit,2025-04-14,P039,27
+128,1,Produit inutilisable,2025-05-09,P040,32
+129,1,Très mauvaise qualité,2025-09-15,P040,33
+130,2,Qualité faible,2025-09-06,P040,30
+131,3,Produit correct,2025-02-06,P041,17
+132,5,Qualité exceptionnelle,2025-12-25,P041,19
+133,3,Acceptable,2025-05-25,P042,19
+134,4,Bonne qualité,2025-07-09,P042,20
+135,4,Bonne qualité,2025-06-08,P042,20
+136,2,Qualité faible,2025-10-04,P043,29
+137,5,Excellent produit,2025-12-02,P043,25
+138,1,Très mauvaise qualité,2025-07-18,P044,33
+139,5,Excellent produit,2025-02-01,P045,26
+140,3,Produit correct,2025-04-09,P045,35
+141,5,Excellent produit,2025-10-26,P045,31
+142,2,Ne répond pas aux attentes,2025-07-31,P045,23
+143,3,Acceptable,2025-02-09,P046,32
+144,1,Produit inutilisable,2025-09-26,P046,30
+145,4,Très bon produit,2025-02-02,P046,22
+146,1,Très mauvaise qualité,2025-04-10,P046,22
+147,1,Très mauvaise qualité,2025-11-12,P046,22
+148,5,Qualité exceptionnelle,2025-03-31,P047,31
+149,2,Ne répond pas aux attentes,2025-04-12,P047,24
+150,1,Très mauvaise qualité,2025-06-19,P047,30
+151,3,Produit correct,2025-12-05,P047,27
+152,4,Bonne qualité,2025-08-06,P048,19
+153,5,Excellent produit,2025-03-21,P048,23
+154,4,Bonne qualité,2025-10-16,P048,25
+155,1,Produit inutilisable,2025-05-03,P048,25
+156,2,Qualité faible,2025-08-09,P049,30
+157,5,Excellent produit,2025-12-13,P049,29
+158,2,Ne répond pas aux attentes,2025-02-21,P049,24
+159,3,Acceptable,2025-05-16,P050,26
+160,1,Très mauvaise qualité,2025-12-19,P050,35

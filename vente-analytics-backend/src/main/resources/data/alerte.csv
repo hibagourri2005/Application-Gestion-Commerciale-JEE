@@ -1,0 +1,6 @@
+id,type_alerte,message,date_creation,utilisateur_id
+1,CHANGEMENT_PRIX,Alerte générée automatiquement,2025-12-18,8
+2,PRODUIT_POPULAIRE,Alerte générée automatiquement,2025-12-20,6
+3,CHANGEMENT_PRIX,Alerte générée automatiquement,2025-10-29,14
+4,NOUVEAU_TOP,Alerte générée automatiquement,2026-01-02,13
+5,NOUVEAU_TOP,Alerte générée automatiquement,2025-12-28,15

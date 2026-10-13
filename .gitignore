@@ -1,0 +1,21 @@
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.iml
+
+# Secrets et configuration locale (ne jamais versionner)
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
+
+# Dépendances et fichiers générés (déjà gérés dans chaque sous-dossier, ici par sécurité)
+node_modules/
+target/
+
+# Journaux
+*.log
